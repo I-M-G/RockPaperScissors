@@ -11,7 +11,6 @@ let playerScore = 0;
 let computerScore = 0;
 
 function handlePlayerSelection(event) {
-  
   let computerHand = getComputerHand();
   let playerHand = event.target.innerText;
 
