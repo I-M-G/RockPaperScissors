@@ -5,6 +5,8 @@ Simple game of Rock Paper Scissors played against the computer. Using this as a 
 #### Status
 Game logic is complete. Finds the winner and outputs to the console and screen.
 
-Needs CSS work:
-- Better color theme.
+#### TODO:
 - Add responsiveness for mobile.
+- Better layout of the UI
+
+![UI Screenshot](https://github.com/I-M-G/RockPaperScissors/blob/master/ScreenShot.PNG)
